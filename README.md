@@ -6,15 +6,6 @@ A modern, responsive personal portfolio website built with React and Vite, showc
 ## 🚀 Live Demo
 Visit the live website: [Arman Ghaziaskari Portfolio](https://armanghazi.github.io/portfolio/index.html)
 
-## ✨ Features
-- 🎨 Modern and clean UI design
-- 📱 Fully responsive layout (mobile, tablet, and desktop)
-- 🌓 Light/Dark theme support
-- 🌐 Multi-language support
-- 📂 Project showcase with categorization
-- 📝 Detailed studies and experience sections
-- 📬 Contact form with WhatsApp integration
-- ⚡ Fast loading and optimized performance
 
 ## 🛠️ Technologies Used
 - React.js
@@ -87,17 +78,12 @@ The website uses CSS variables for easy customization. Main colors and themes ca
 - **Projects**: Showcase of technical projects
 - **Contact**: Contact form and social media links
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/armanghazi/portfolio/issues).
-
-## 📝 License
-This project is available for use under the MIT License.
 
 ## 👤 Author
-**Arman Ghaziaskari Naeini**
-- GitHub: [@armanghazi](https://github.com/armanghazi)
-- LinkedIn: [Arman Ghaziaskari](https://www.linkedin.com/in/arman-ghaziaskari/)
-- Kaggle: [Arman Ghazi](https://www.kaggle.com/armanghazi)
+**Iñigo Mata**
+- GitHub: [@iata-lab](https://github.com/iata-lab)
+- LinkedIn: [Iñigo Mata](https://www.linkedin.com/in/inigo-mata/)
+
 
 ## 🙏 Acknowledgments
 Special thanks to all contributors and users of this portfolio template. 
